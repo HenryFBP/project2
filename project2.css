@@ -2,7 +2,7 @@ body{
 	background-color:#7FDBFF;
 	font-family: Arial;
 	border: 0.1em solid black;
-	padding-top: 5em;
+	padding-top: 2em;
 	padding-right: 3em;
 	padding-bottom: 5em;
 	padding-left: 8em;
@@ -95,10 +95,7 @@ footer{
 footer a:hover{
 	color: #FFFFFF;
 }
-footer a:link{
-	color: #FFFFFF;
-}
-footer a:visited{
+footer a:link, footer a:visited{
 	color: #FFFFFF;
 }
 
