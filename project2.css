@@ -62,6 +62,12 @@ video {
 	padding-bottom: 1.25em;
 	margin: 0 auto;
 }
+
+.homepage{
+	text-align: center;
+	font-size: large;
+}
+
 #creation h2{
 	text-align: center;
 	font-size: large;
