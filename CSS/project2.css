@@ -63,12 +63,12 @@ video {
 	margin: 0 auto;
 }
 
-.homepage{
+#homepage{
 	text-align: center;
 	font-size: large;
 }
 
-.about{
+#about{
 	text-align: center;
 	font-size: large;
 }
