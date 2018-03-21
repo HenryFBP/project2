@@ -72,19 +72,16 @@ video {
 .education ul li {
 	padding-bottom: 0;
 	font-family: monospace;
-	font-size: 60%;
 }
 .skills ul,
 .skills ul li {
 	padding-bottom: 0;
 	font-family: monospace;
-	font-size: 60%;
 }
 .experience ul,
 .experience ul li {
 	padding-bottom: 0;
 	font-family: monospace;
-	font-size: 60%;
 }
 footer{
 	font-size: 75%;
