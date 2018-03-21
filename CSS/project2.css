@@ -2,10 +2,11 @@ body{
 	background-color:#7FDBFF;
 	font-family: Arial;
 	border: 0.1em solid black;
-	padding-top: 1em;
+	/* padding-top: 1em;
 	padding-right: 3em;
 	padding-bottom: 5em;
-	padding-left: 3em;
+	padding-left: 3em; */
+	padding: 20px;
 }
 p{
 	font-family: cursive;
@@ -72,16 +73,19 @@ video {
 .education ul li {
 	padding-bottom: 0;
 	font-family: monospace;
+	font-size: 60em;
 }
 .skills ul,
 .skills ul li {
 	padding-bottom: 0;
 	font-family: monospace;
+	font-size: 60em;
 }
 .experience ul,
 .experience ul li {
 	padding-bottom: 0;
 	font-family: monospace;
+	font-size: 60em;
 }
 footer{
 	font-size: 75%;
