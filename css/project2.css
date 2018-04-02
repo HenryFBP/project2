@@ -115,15 +115,19 @@ video {
 
 .gradepoint p{
 	/*margin-left: 70px;*/
-350px}
-.duration p{
+	padding-left: 350px;
+}
+
+.time p{
 	/*margin-left: 70px;*/
 	padding-left: 350px;
 }
-.place p{
+
+.loc p{
 	/*margin-left: 70px;*/
 	padding-left: 350px;
 }
+
 .state p{
 	/*margin-left: 70px;*/
 	padding-left: 350px;
