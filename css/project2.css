@@ -23,7 +23,6 @@ p{
 .subheader{
 	display: block;
 	margin: 0 auto;
-	border: 10px inset #ddd;
 	margin-left: 0;
 	margin-right: 0;
 }
