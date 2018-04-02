@@ -98,10 +98,38 @@ video {
 	font-size: 20px;
 }
 
-.location p, .period p, .year p, .gradepoint p{
+.location p{
 	/*margin-left: 70px;*/
 	padding-left: 70px;
 }
+
+ .period p{
+ 	/*margin-left: 70px;*/
+ 	padding-left: 70px;
+ }
+
+ .year p{
+ 	/*margin-left: 70px;*/
+ 	padding-left: 70px;
+ }
+
+.gradepoint p{
+	/*margin-left: 70px;*/
+	padding-left: 70px;
+}
+.duration p{
+	/*margin-left: 70px;*/
+	padding-left: 70px;
+}
+.place p{
+	/*margin-left: 70px;*/
+	padding-left: 70px;
+}
+.state p{
+	/*margin-left: 70px;*/
+	padding-left: 70px;
+}
+
 
 footer{
 	font-size: 75%;
