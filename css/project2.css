@@ -72,7 +72,6 @@ video {
 	margin: 0 auto;
 }
 
-
 #creation h2{
 	text-align: center;
 	font-size: large;
@@ -99,6 +98,10 @@ video {
 	font-size: 20px;
 }
 
+.location, .period, .year, .gradepoint{
+	margin-left: auto;
+}
+
 footer{
 	font-size: 75%;
 	font-style: italic;
@@ -120,7 +123,6 @@ footer a:link, footer a:visited{
 	.nav a {
 		line-height: 1em;
 	}
-
 	video,
 	img {
 		max-height: 80vh;
@@ -133,13 +135,11 @@ footer a:link, footer a:visited{
 		padding-left: 2.6666666667%; /* 16 px out of 600px */
 		padding-right: 2.6666666667%; /* 16 px out of 600px */
 	}
-
 	video {
 		margin: 0;
 		height: auto;
 		width: 48.5915492958%; /*4 columns */
 	}
-
 }
 
 
@@ -148,13 +148,11 @@ footer a:link, footer a:visited{
 		padding-left: 10.9523809524%;
 		padding-right: 10.9523809524%;
 	}
-
 	video {
 		margin: 0;
 		width: 48.1707317073%;
 	}
 }
-
 
 @media screen and (min-width: 64.5em) {
 	body {
