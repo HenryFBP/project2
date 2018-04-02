@@ -99,7 +99,7 @@ video {
 }
 
 .location, .period, .year, .gradepoint{
-	margin-left: auto;
+	margin-left: 70px;
 }
 
 footer{
