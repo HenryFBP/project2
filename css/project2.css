@@ -98,7 +98,7 @@ video {
 	font-size: 20px;
 }
 
-.location, .period, .year, .gradepoint{
+.location p, .period p, .year p, .gradepoint p{
 	margin-left: 70px;
 }
 
