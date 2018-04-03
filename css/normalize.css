@@ -1,5 +1,4 @@
 /*HTML5 Reset Stylesheet http://html5doctor.com/html-5-reset-stylesheet***/
-
 html, body, div, h1, h2, h3, p, img,
 strong, ul, li, aside, footer, header, nav, section, video {
   margin:0;
@@ -11,17 +10,21 @@ strong, ul, li, aside, footer, header, nav, section, video {
   background:transparent;
 }
 
+
 body {
   line-height:1;
 }
+
 
 aside,footer,header,nav,section {
   display:block;
 }
 
+
 nav ul {
   list-style:none;
 }
+
 
 a {
   margin:0;
