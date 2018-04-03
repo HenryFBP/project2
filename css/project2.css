@@ -85,8 +85,7 @@ video {
 	max-height: 100%;
 	padding-bottom: 1.25em;
 	margin: 0 auto;
-	position:relative;
-	left: 150px;
+	float:inherit;
 	padding-left: 1.25em;
 	padding-right: 1.25em;
 }
