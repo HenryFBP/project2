@@ -68,7 +68,7 @@ video {
 	max-height: 100%;
 	padding-bottom: 1.25em;
 	margin: 0 auto;
-	float: right;
+	float:left;
 }
 
 #creation h2{
