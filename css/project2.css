@@ -76,6 +76,10 @@ video {
 	font-size: large;
 }
 
+#creation p {
+	margin-bottom: 15px;
+}
+
 .education ul,
 .education ul li {
 	padding-bottom: 10px;
