@@ -92,6 +92,8 @@ video {
 #creation h2{
 	text-align: center;
 	font-size: large;
+	margin-bottom: 1.25em;
+	text-decoration: underline;
 }
 
 
