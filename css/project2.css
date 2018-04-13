@@ -3,10 +3,6 @@ body{
 	position: absolute;
 }
 
-#map {
-	width: 500px;
-	height: 500px;
-}
 
 .summary{
 	background-color: #a1c4fd;
